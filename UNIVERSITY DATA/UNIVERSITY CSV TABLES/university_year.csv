@@ -1,0 +1,1086 @@
+university_id,year,num_students,student_staff_ratio,pct_international_students,pct_female_students,country_name,university_name,ranking_criteria_id,ranking_system_id,ranking_system_name,score,ranking_criteria_name,Country_id
+1,2011,20152,8.9,25,33,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+5,2011,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+2,2011,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+3,2011,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+6,2011,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2011,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+7,2011,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+10,2011,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+28,2011,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+8,2011,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+19,2011,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+11,2011,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+15,2011,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+12,2011,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1025,2011,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+1026,2011,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+9,2011,25055,5.9,28,48,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+13,2011,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+43,2011,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+158,2011,19835,17.6,38,53,Hong Kong,University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+31,2011,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+1027,2011,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+27,2011,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+33,2011,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+14,2011,26199,5.7,10,48,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+87,2011,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+187,2011,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+40,2011,22020,27.3,11,52,United States of America,"University of California, Santa Barbara",1,1,Times Higher Education World University Ranking,100,Teaching,73
+67,2011,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+36,2011,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+20,2011,27233,6.5,11,48,United States of America,"University of California, San Diego",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1028,2011,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+104,2011,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+41,2011,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+118,2011,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+111,2011,40148,8.3,14,55,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+1029,2011,12528,5.7,17,55,United States of America,Washington University in St Louis,21,3,Center for World University Rankings,82,Research,73
+61,2011,2429,4.8,30,18,France,École Polytechnique,1,1,Times Higher Education World University Ranking,100,Teaching,20
+60,2011,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+292,2011,11385,23.8,36,58,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+1030,2011,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+107,2011,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+170,2011,25581,25.6,12,51,Germany,University of Göttingen,14,3,Center for World University Rankings,84,Research,21
+57,2011,6333,9,26,44,United States of America,Rice University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1032,2011,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+47,2011,26614,16.1,16,52,United States of America,"University of California, Irvine",1,1,Times Higher Education World University Ranking,100,Teaching,73
+59,2011,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1033,2011,46825,18,13,52,United States of America,University of Minnesota,21,3,Center for World University Rankings,82,Research,73
+86,2011,10410,10,14,54,United States of America,Tufts University,14,3,Center for World University Rankings,84,Research,73
+45,2011,35364,13.9,13,54,United States of America,"University of California, Davis",1,1,Times Higher Education World University Ranking,100,Teaching,73
+66,2011,8653,10.1,19,54,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1034,2011,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+17,2011,22809,5.6,7,49,Japan,Kyoto University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+114,2011,39763,13.7,10,32,China,Tsinghua University,14,3,Center for World University Rankings,84,Research,11
+62,2011,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+23,2011,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+81,2011,12338,4.5,18,56,United States of America,Emory University,14,3,Center for World University Rankings,84,Research,73
+1035,2011,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+112,2011,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+1036,2011,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+78,2011,9259,6.4,17,48,United States of America,Case Western Reserve University,14,3,Center for World University Rankings,84,Research,73
+1037,2011,51462,13.4,12,49,United States of America,Ohio State University,21,3,Center for World University Rankings,82,Research,73
+46,2011,29325,16.1,8,45,United States of America,University of Colorado Boulder,1,1,Times Higher Education World University Ranking,100,Teaching,73
+98,2011,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+165,2011,17404,22.7,1,53,United States of America,"University of California, Santa Cruz",14,3,Center for World University Rankings,84,Research,73
+173,2011,6753,5.5,7,53,United States of America,Yeshiva University,14,3,Center for World University Rankings,84,Research,73
+94,2011,41868,20.2,28,57,Australia,University of Sydney,14,3,Center for World University Rankings,84,Research,2
+84,2011,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+341,2011,20771,30.1,26,48,Australia,University of Adelaide,14,3,Center for World University Rankings,84,Research,2
+44,2011,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1038,2011,7867,11.8,7,54,United States of America,William & Mary,21,3,Center for World University Rankings,82,Research,73
+1039,2011,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+1040,2011,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+105,2011,21908,10.9,24,50,United States of America,Stony Brook University,14,3,Center for World University Rankings,84,Research,73
+134,2011,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+191,2011,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+1041,2011,34718,32.7,27,53,Australia,The University of Queensland,21,3,Center for World University Rankings,82,Research,2
+1042,2011,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+38,2011,25674,16.9,9,45,United States of America,University of Utah,1,1,Times Higher Education World University Ranking,100,Teaching,73
+265,2011,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+76,2011,34938,15.3,34,52,United Kingdom,University of Manchester,14,3,Center for World University Rankings,84,Research,72
+542,2011,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+125,2011,28251,11.5,15,57,Sweden,Lund University,14,3,Center for World University Rankings,84,Research,64
+150,2011,20925,13.5,29,53,United Kingdom,University of Southampton,14,3,Center for World University Rankings,84,Research,72
+88,2011,26583,6.5,19,57,Switzerland,University of Zurich,14,3,Center for World University Rankings,84,Research,65
+149,2011,7326,4.6,5,51,United States of America,Wake Forest University,14,3,Center for World University Rankings,84,Research,73
+270,2011,22193,24.5,23,51,Ireland,University College Dublin,14,3,Center for World University Rankings,84,Research,30
+181,2011,20541,12,16,56,United States of America,George Washington University,14,3,Center for World University Rankings,84,Research,73
+50,2011,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+157,2011,12551,17.3,24,54,Switzerland,University of Basel,14,3,Center for World University Rankings,84,Research,65
+68,2011,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+58,2011,6178,6.6,16,47,United States of America,Dartmouth College,1,1,Times Higher Education World University Ranking,100,Teaching,73
+463,2011,2218,8,14,49,France,École normale supérieure de Lyon,19,3,Center for World University Rankings,82,Research,20
+90,2011,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+89,2011,23505,15.1,6,66,Finland,University of Helsinki,14,3,Center for World University Rankings,84,Research,19
+324,2011,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+244,2011,6671,15,16,30,United States of America,Rensselaer Polytechnic Institute,14,3,Center for World University Rankings,84,Research,73
+1044,2011,37032,17.3,8,51,United States of America,"Rutgers, the State University of New Jersey",21,3,Center for World University Rankings,82,Research,73
+1045,2011,39256,18.1,22,42,United States of America,Purdue University,21,3,Center for World University Rankings,82,Research,73
+419,2011,10221,13.5,5,33,Taiwan,National Tsing Hua University,19,3,Center for World University Rankings,82,Research,66
+268,2011,20040,12.1,18,53,South Africa,University of Cape Town,14,3,Center for World University Rankings,84,Research,61
+1046,2011,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+75,2011,26389,13.9,10,46,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+679,2011,10441,11,25,61,Hong Kong,Hong Kong Baptist University,21,3,Center for World University Rankings,82,Research,24
+117,2011,9586,7.3,13,13,Japan,Tokyo Institute of Technology,14,3,Center for World University Rankings,84,Research,33
+354,2011,8176,16,14,19,Netherlands,Eindhoven University of Technology,14,3,Center for World University Rankings,84,Research,44
+113,2011,31891,11.9,7,39,Taiwan,National Taiwan University,14,3,Center for World University Rankings,84,Research,66
+223,2011,20626,22,12,51,United States of America,"University of California, Riverside",14,3,Center for World University Rankings,84,Research,73
+65,2011,15668,15,39,61,Switzerland,University of Geneva,1,1,Times Higher Education World University Ranking,100,Teaching,65
+1048,2011,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+218,2011,29743,13.3,10,46,China,Nanjing University,14,3,Center for World University Rankings,84,Research,11
+215,2011,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+123,2011,44750,15.7,15,51,United States of America,Michigan State University,14,3,Center for World University Rankings,84,Research,73
+198,2011,9990,5,18,27,Denmark,Technical University of Denmark,14,3,Center for World University Rankings,84,Research,16
+141,2011,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+450,2011,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+85,2011,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+108,2011,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+142,2011,22616,16,29,57,United Kingdom,University of Glasgow,14,3,Center for World University Rankings,84,Research,72
+32,2011,23144,7.8,9,31,Japan,Osaka University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+79,2011,17200,5,7,25,Japan,Tohoku University,14,3,Center for World University Rankings,84,Research,33
+1049,2011,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+132,2011,27526,11.6,11,52,United States of America,University of Iowa,14,3,Center for World University Rankings,84,Research,73
+306,2011,11623,11.1,12,60,Norway,University of Bergen,14,3,Center for World University Rankings,84,Research,47
+195,2011,11964,13.1,22,60,Switzerland,University of Lausanne,14,3,Center for World University Rankings,84,Research,65
+179,2011,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+148,2011,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+1050,2011,27862,8.7,18,48,France,Pierre and Marie Curie University,21,3,Center for World University Rankings,82,Research,20
+253,2011,11628,15.3,25,60,United Kingdom,University of Dundee,14,3,Center for World University Rankings,84,Research,72
+128,2011,47491,12.2,10,62,Spain,University of Barcelona,14,3,Center for World University Rankings,84,Research,63
+99,2011,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+1051,2011,9248,17,21,56,Netherlands,Wageningen University and Research Center,21,3,Center for World University Rankings,82,Research,44
+274,2011,29787,18.9,28,54,New Zealand,University of Auckland,14,3,Center for World University Rankings,84,Research,45
+146,2011,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+952,2011,127431,23.3,1,46,Egypt,Alexandria University,21,3,Center for World University Rankings,82,Research,17
+131,2011,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+382,2011,22064,25.9,26,51,Hong Kong,Hong Kong Polytechnic University,14,3,Center for World University Rankings,84,Research,24
+277,2011,12938,15.8,33,54,United Kingdom,University of Aberdeen,14,3,Center for World University Rankings,84,Research,72
+276,2011,15920,19.4,25,26,Netherlands,Delft University of Technology,14,3,Center for World University Rankings,84,Research,44
+625,2011,9454,17.2,38,55,United Kingdom,"Birkbeck, University of London",21,3,Center for World University Rankings,82,Research,72
+230,2011,20174,15.2,29,50,United Kingdom,Newcastle University,14,3,Center for World University Rankings,84,Research,72
+152,2011,38309,25.9,33,47,Australia,University of New South Wales,14,3,Center for World University Rankings,84,Research,2
+427,2011,10901,18.3,13,59,Spain,Pompeu Fabra University,19,3,Center for World University Rankings,82,Research,63
+1052,2011,62468,13.6,13,53,United States of America,Indiana University,21,3,Center for World University Rankings,82,Research,73
+183,2011,29991,17.4,11,44,United States of America,Iowa State University,14,3,Center for World University Rankings,84,Research,73
+121,2011,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+248,2011,19262,15.9,10,56,United States of America,University of Delaware,14,3,Center for World University Rankings,84,Research,73
+80,2011,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+333,2011,13216,17.4,19,54,United States of America,Boston College,14,3,Center for World University Rankings,84,Research,73
+792,2011,9336,19.6,4,37,Taiwan,National Sun Yat-sen University,21,3,Center for World University Rankings,82,Research,66
+126,2011,15408,8.5,14,53,United States of America,Georgetown University,14,3,Center for World University Rankings,84,Research,73
+130,2011,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+212,2011,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+127,2011,23895,13.6,14,54,Denmark,Aarhus University,14,3,Center for World University Rankings,84,Research,16
+154,2011,27703,14.7,21,58,United Kingdom,University of Leeds,14,3,Center for World University Rankings,84,Research,72
+1054,2011,26576,38.4,8,57,Germany,University of Würzburg,21,3,Center for World University Rankings,82,Research,21
+133,2011,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+293,2011,51351,16.6,8,51,China,Sun Yat-sen University,14,3,Center for World University Rankings,84,Research,11
+163,2011,31861,9.3,15,60,Germany,Goethe University Frankfurt,14,3,Center for World University Rankings,84,Research,21
+151,2011,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+351,2011,14992,14.7,28,58,United Kingdom,University of East Anglia,14,3,Center for World University Rankings,84,Research,72
+97,2011,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+93,2011,27545,4.1,19,67,Denmark,University of Copenhagen,14,3,Center for World University Rankings,84,Research,16
+160,2011,29987,52.5,16,67,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+171,2011,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+119,2011,32474,70.4,13,55,Germany,University of Bonn,14,3,Center for World University Rankings,84,Research,21
+412,2011,12646,16.6,5,27,Taiwan,National Chiao Tung University,19,3,Center for World University Rankings,82,Research,66
+239,2011,37917,27.6,16,31,Germany,RWTH Aachen University,14,3,Center for World University Rankings,84,Research,21
+397,2011,25779,22.2,7,44,Turkey,Middle East Technical University,19,3,Center for World University Rankings,82,Research,68
+358,2011,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+446,2011,6631,12,26,37,Netherlands,University of Twente,19,3,Center for World University Rankings,82,Research,44
+469,2011,10930,59.1,12,54,Germany,University of Konstanz,19,3,Center for World University Rankings,82,Research,21
+216,2011,25294,24.6,16,26,Germany,Karlsruhe Institute of Technology,14,3,Center for World University Rankings,84,Research,21
+327,2011,18209,16.9,39,54,Austria,University of Innsbruck,14,3,Center for World University Rankings,84,Research,3
+162,2011,28327,38.9,12,58,Germany,University of Tübingen,14,3,Center for World University Rankings,84,Research,21
+262,2011,20713,10.8,18,48,United States of America,Drexel University,14,3,Center for World University Rankings,84,Research,73
+178,2011,36108,15.7,6,54,United States of America,University of Cincinnati,14,3,Center for World University Rankings,84,Research,73
+122,2011,24774,11.6,14,54,South Korea,Yonsei University,14,3,Center for World University Rankings,84,Research,62
+285,2011,15064,14.4,18,55,Canada,Dalhousie University,14,3,Center for World University Rankings,84,Research,9
+1055,2011,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+206,2011,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+587,2011,23122,19,8,58,United States of America,Kent State University,21,3,Center for World University Rankings,82,Research,73
+219,2011,24313,9.2,17,53,United States of America,University of Illinois at Chicago,14,3,Center for World University Rankings,84,Research,73
+207,2011,47508,15.9,5,41,China,Zhejiang University,14,3,Center for World University Rankings,84,Research,11
+394,2011,26640,28.3,19,55,Canada,Simon Fraser University,14,3,Center for World University Rankings,84,Research,9
+5,2012,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1,2012,20152,8.9,25,33,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+3,2012,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+7,2012,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+6,2012,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2012,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+2,2012,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+28,2012,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+11,2012,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+10,2012,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+8,2012,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+9,2012,25055,5.9,28,50,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+19,2012,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+15,2012,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1025,2012,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+13,2012,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+31,2012,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+1026,2012,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+35,2012,66198,19.5,15,48,Canada,University of Toronto,1,1,Times Higher Education World University Ranking,100,Teaching,9
+12,2012,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+43,2012,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+27,2012,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+67,2012,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+87,2012,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+1027,2012,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+33,2012,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1056,2012,39655,10.8,11,51,United States of America,University of Wisconsin-Madison,21,3,Center for World University Rankings,82,Research,73
+41,2012,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+30,2012,49427,17.4,9,51,United States of America,University of Texas at Austin,1,1,Times Higher Education World University Ranking,100,Teaching,73
+14,2012,26199,5.7,10,51,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+1028,2012,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+70,2012,7774,11.5,22,70,Sweden,Karolinska Institute,8,2,Shanghai Ranking,88,International,64
+20,2012,27233,6.5,11,48,United States of America,"University of California, San Diego",1,1,Times Higher Education World University Ranking,100,Teaching,73
+158,2012,19835,17.6,38,53,Hong Kong,University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+40,2012,22020,27.3,11,52,United States of America,"University of California, Santa Barbara",1,1,Times Higher Education World University Ranking,100,Teaching,73
+60,2012,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+118,2012,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+107,2012,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+45,2012,35364,13.9,13,54,United States of America,"University of California, Davis",1,1,Times Higher Education World University Ranking,100,Teaching,73
+104,2012,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+1029,2012,12528,5.7,17,49,United States of America,Washington University in St Louis,21,3,Center for World University Rankings,82,Research,73
+1033,2012,46825,18,13,52,United States of America,University of Minnesota,21,3,Center for World University Rankings,82,Research,73
+36,2012,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+23,2012,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1035,2012,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+1032,2012,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+76,2012,34938,15.3,34,52,United Kingdom,University of Manchester,14,3,Center for World University Rankings,84,Research,72
+66,2012,8653,10.1,19,52,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+111,2012,40148,8.3,14,52,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+1046,2012,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+17,2012,22809,5.6,7,46,Japan,Kyoto University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+187,2012,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+62,2012,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+44,2012,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1040,2012,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+1037,2012,51462,13.4,12,49,United States of America,Ohio State University,21,3,Center for World University Rankings,82,Research,73
+94,2012,41868,20.2,28,57,Australia,University of Sydney,14,3,Center for World University Rankings,84,Research,2
+1036,2012,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+1030,2012,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+88,2012,26583,6.5,19,57,Switzerland,University of Zurich,14,3,Center for World University Rankings,84,Research,65
+292,2012,11385,23.8,36,57,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+61,2012,2429,4.8,30,18,France,École Polytechnique,1,1,Times Higher Education World University Ranking,100,Teaching,20
+1034,2012,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+145,2012,23823,19.3,15,53,Canada,McMaster University,14,3,Center for World University Rankings,84,Research,9
+98,2012,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+1048,2012,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+99,2012,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+170,2012,25581,25.6,12,51,Germany,University of Göttingen,14,3,Center for World University Rankings,84,Research,21
+59,2012,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+114,2012,39763,13.7,10,32,China,Tsinghua University,14,3,Center for World University Rankings,84,Research,11
+57,2012,6333,9,26,44,United States of America,Rice University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1042,2012,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+1041,2012,34718,32.7,27,53,Australia,The University of Queensland,21,3,Center for World University Rankings,82,Research,2
+81,2012,12338,4.5,18,56,United States of America,Emory University,14,3,Center for World University Rankings,84,Research,73
+1051,2012,9248,17,21,56,Netherlands,Wageningen University and Research Center,21,3,Center for World University Rankings,82,Research,44
+86,2012,10410,10,14,54,United States of America,Tufts University,14,3,Center for World University Rankings,84,Research,73
+46,2012,29325,16.1,8,45,United States of America,University of Colorado Boulder,1,1,Times Higher Education World University Ranking,100,Teaching,73
+85,2012,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+125,2012,28251,11.5,15,59,Sweden,Lund University,14,3,Center for World University Rankings,84,Research,64
+1044,2012,37032,17.3,8,51,United States of America,"Rutgers, the State University of New Jersey",21,3,Center for World University Rankings,82,Research,73
+53,2012,9390,4.5,26,49,United States of America,University of Rochester,1,1,Times Higher Education World University Ranking,100,Teaching,73
+265,2012,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+1050,2012,27862,8.7,18,48,France,Pierre and Marie Curie University,21,3,Center for World University Rankings,82,Research,20
+324,2012,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+47,2012,26614,16.1,16,52,United States of America,"University of California, Irvine",1,1,Times Higher Education World University Ranking,100,Teaching,73
+131,2012,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+90,2012,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+112,2012,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+58,2012,6178,6.6,16,47,United States of America,Dartmouth College,1,1,Times Higher Education World University Ranking,100,Teaching,73
+89,2012,23505,15.1,6,66,Finland,University of Helsinki,14,3,Center for World University Rankings,84,Research,19
+130,2012,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+78,2012,9259,6.4,17,48,United States of America,Case Western Reserve University,14,3,Center for World University Rankings,84,Research,73
+134,2012,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+68,2012,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+123,2012,44750,15.7,15,51,United States of America,Michigan State University,14,3,Center for World University Rankings,84,Research,73
+50,2012,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1045,2012,39256,18.1,22,42,United States of America,Purdue University,21,3,Center for World University Rankings,82,Research,73
+191,2012,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+108,2012,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+179,2012,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+142,2012,22616,16,29,57,United Kingdom,University of Glasgow,14,3,Center for World University Rankings,84,Research,72
+268,2012,20040,12.1,18,53,South Africa,University of Cape Town,14,3,Center for World University Rankings,84,Research,61
+276,2012,15920,19.4,25,26,Netherlands,Delft University of Technology,14,3,Center for World University Rankings,84,Research,44
+139,2012,38264,20.3,25,57,Canada,University of Montreal,14,3,Center for World University Rankings,84,Research,9
+141,2012,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+542,2012,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+117,2012,9586,7.3,13,13,Japan,Tokyo Institute of Technology,14,3,Center for World University Rankings,84,Research,33
+160,2012,29987,52.5,16,13,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+165,2012,17404,22.7,1,53,United States of America,"University of California, Santa Cruz",14,3,Center for World University Rankings,84,Research,73
+157,2012,12551,17.3,24,54,Switzerland,University of Basel,14,3,Center for World University Rankings,84,Research,65
+202,2012,14708,22.5,14,54,Switzerland,University of Bern,14,3,Center for World University Rankings,84,Research,65
+38,2012,25674,16.9,9,45,United States of America,University of Utah,1,1,Times Higher Education World University Ranking,100,Teaching,73
+105,2012,21908,10.9,24,50,United States of America,Stony Brook University,14,3,Center for World University Rankings,84,Research,73
+354,2012,8176,16,14,19,Netherlands,Eindhoven University of Technology,14,3,Center for World University Rankings,84,Research,44
+195,2012,11964,13.1,22,19,Switzerland,University of Lausanne,14,3,Center for World University Rankings,84,Research,65
+171,2012,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+1039,2012,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+32,2012,23144,7.8,9,31,Japan,Osaka University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+79,2012,17200,5,7,25,Japan,Tohoku University,14,3,Center for World University Rankings,84,Research,33
+22,2012,17612,10.7,5,55,Israel,Hebrew University of Jerusalem,1,1,Times Higher Education World University Ranking,100,Teaching,31
+1052,2012,62468,13.6,13,53,United States of America,Indiana University,21,3,Center for World University Rankings,82,Research,73
+75,2012,26389,13.9,10,53,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+127,2012,23895,13.6,14,54,Denmark,Aarhus University,14,3,Center for World University Rankings,84,Research,16
+55,2012,50095,18.7,9,54,United States of America,University of Florida,1,1,Times Higher Education World University Ranking,100,Teaching,73
+80,2012,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+215,2012,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+150,2012,20925,13.5,29,53,United Kingdom,University of Southampton,14,3,Center for World University Rankings,84,Research,72
+65,2012,15668,15,39,61,Switzerland,University of Geneva,1,1,Times Higher Education World University Ranking,100,Teaching,65
+450,2012,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+188,2012,31715,23.7,8,62,Sweden,Stockholm University,14,3,Center for World University Rankings,84,Research,64
+154,2012,27703,14.7,21,58,United Kingdom,University of Leeds,14,3,Center for World University Rankings,84,Research,72
+133,2012,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+181,2012,20541,12,16,56,United States of America,George Washington University,14,3,Center for World University Rankings,84,Research,73
+93,2012,27545,4.1,19,67,Denmark,University of Copenhagen,14,3,Center for World University Rankings,84,Research,16
+84,2012,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+126,2012,15408,8.5,14,53,United States of America,Georgetown University,14,3,Center for World University Rankings,84,Research,73
+206,2012,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+97,2012,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+132,2012,27526,11.6,11,52,United States of America,University of Iowa,14,3,Center for World University Rankings,84,Research,73
+463,2012,2218,8,14,49,France,École normale supérieure de Lyon,19,3,Center for World University Rankings,82,Research,20
+223,2012,20626,22,12,51,United States of America,"University of California, Riverside",14,3,Center for World University Rankings,84,Research,73
+244,2012,6671,15,16,30,United States of America,Rensselaer Polytechnic Institute,14,3,Center for World University Rankings,84,Research,73
+351,2012,14992,14.7,28,58,United Kingdom,University of East Anglia,14,3,Center for World University Rankings,84,Research,72
+230,2012,20174,15.2,29,50,United Kingdom,Newcastle University,14,3,Center for World University Rankings,84,Research,72
+1038,2012,7867,11.8,7,54,United States of America,William & Mary,21,3,Center for World University Rankings,82,Research,73
+146,2012,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+625,2012,9454,17.2,38,55,United Kingdom,"Birkbeck, University of London",21,3,Center for World University Rankings,82,Research,72
+237,2012,5495,12.6,22,55,United States of America,Brandeis University,14,3,Center for World University Rankings,84,Research,73
+203,2012,17916,10.2,22,53,Hong Kong,Chinese University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+161,2012,33062,39.3,20,58,Germany,Free University of Berlin,14,3,Center for World University Rankings,84,Research,21
+277,2012,12938,15.8,33,54,United Kingdom,University of Aberdeen,14,3,Center for World University Rankings,84,Research,72
+113,2012,31891,11.9,7,39,Taiwan,National Taiwan University,14,3,Center for World University Rankings,84,Research,66
+173,2012,6753,5.5,7,53,United States of America,Yeshiva University,14,3,Center for World University Rankings,84,Research,73
+358,2012,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+121,2012,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+325,2012,18529,16.6,37,48,United Kingdom,University of Warwick,14,3,Center for World University Rankings,84,Research,72
+135,2012,17713,13,10,58,Netherlands,Radboud University Nijmegen,14,3,Center for World University Rankings,84,Research,44
+270,2012,22193,24.5,23,58,Ireland,University College Dublin,14,3,Center for World University Rankings,84,Research,30
+148,2012,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+149,2012,7326,4.6,5,51,United States of America,Wake Forest University,14,3,Center for World University Rankings,84,Research,73
+1057,2012,50657,21.4,9,47,United States of America,Texas A&M University,21,3,Center for World University Rankings,82,Research,73
+288,2012,12050,14.8,28,55,United Kingdom,University of Reading,14,3,Center for World University Rankings,84,Research,72
+56,2012,23977,24.4,4,55,Israel,Tel Aviv University,1,1,Times Higher Education World University Ranking,100,Teaching,31
+219,2012,24313,9.2,17,53,United States of America,University of Illinois at Chicago,14,3,Center for World University Rankings,84,Research,73
+239,2012,37917,27.6,16,31,Germany,RWTH Aachen University,14,3,Center for World University Rankings,84,Research,21
+151,2012,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+1058,2012,27756,14.8,17,63,France,Paris Diderot University – Paris 7,21,3,Center for World University Rankings,82,Research,20
+192,2012,28856,42,19,54,Belgium,Université catholique de Louvain,14,3,Center for World University Rankings,84,Research,6
+143,2012,15286,5.7,14,50,United States of America,University of Miami,14,3,Center for World University Rankings,84,Research,73
+1059,2012,20488,22.1,10,58,Canada,Queen’s University,21,3,Center for World University Rankings,82,Research,9
+274,2012,29787,18.9,28,54,New Zealand,University of Auckland,14,3,Center for World University Rankings,84,Research,45
+152,2012,38309,25.9,33,47,Australia,University of New South Wales,14,3,Center for World University Rankings,84,Research,2
+253,2012,11628,15.3,25,60,United Kingdom,University of Dundee,14,3,Center for World University Rankings,84,Research,72
+378,2012,17581,21.5,11,56,Canada,University of Victoria,14,3,Center for World University Rankings,84,Research,9
+198,2012,9990,5,18,27,Denmark,Technical University of Denmark,14,3,Center for World University Rankings,84,Research,16
+137,2012,81402,14.6,4,48,Brazil,University of São Paulo,14,3,Center for World University Rankings,84,Research,7
+248,2012,19262,15.9,10,56,United States of America,University of Delaware,14,3,Center for World University Rankings,84,Research,73
+163,2012,31861,9.3,15,60,Germany,Goethe University Frankfurt,14,3,Center for World University Rankings,84,Research,21
+212,2012,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+91,2012,27139,18.8,18,52,Norway,University of Oslo,14,3,Center for World University Rankings,84,Research,47
+183,2012,29991,17.4,11,44,United States of America,Iowa State University,14,3,Center for World University Rankings,84,Research,73
+213,2012,36733,26.3,15,60,Canada,University of Ottawa,14,3,Center for World University Rankings,84,Research,9
+427,2012,10901,18.3,13,59,Spain,Pompeu Fabra University,19,3,Center for World University Rankings,82,Research,63
+1055,2012,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+162,2012,28327,38.9,12,58,Germany,University of Tübingen,14,3,Center for World University Rankings,84,Research,21
+1049,2012,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+226,2012,20851,20.7,27,50,Australia,University of Western Australia,14,3,Center for World University Rankings,84,Research,2
+306,2012,11623,11.1,12,60,Norway,University of Bergen,14,3,Center for World University Rankings,84,Research,47
+271,2012,14290,7.9,2,60,China,University of Science and Technology of China,14,3,Center for World University Rankings,84,Research,11
+376,2012,10015,7.1,28,51,Hong Kong,City University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+469,2012,10930,59.1,12,54,Germany,University of Konstanz,19,3,Center for World University Rankings,82,Research,21
+333,2012,13216,17.4,19,54,United States of America,Boston College,14,3,Center for World University Rankings,84,Research,73
+216,2012,25294,24.6,16,26,Germany,Karlsruhe Institute of Technology,14,3,Center for World University Rankings,84,Research,21
+251,2012,15626,18.9,48,56,Netherlands,Maastricht University,14,3,Center for World University Rankings,84,Research,44
+264,2012,14541,13.4,35,54,United Kingdom,University of Leicester,14,3,Center for World University Rankings,84,Research,72
+446,2012,6631,12,26,37,Netherlands,University of Twente,19,3,Center for World University Rankings,82,Research,44
+5,2013,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+3,2013,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+7,2013,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+1,2013,20152,8.9,25,46,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+2,2013,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+6,2013,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2013,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+28,2013,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+10,2013,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+11,2013,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+8,2013,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1025,2013,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+19,2013,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+9,2013,25055,5.9,28,52,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+13,2013,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+15,2013,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+31,2013,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+12,2013,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+33,2013,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1026,2013,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+35,2013,66198,19.5,15,48,Canada,University of Toronto,1,1,Times Higher Education World University Ranking,100,Teaching,9
+43,2013,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+27,2013,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1027,2013,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+87,2013,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+30,2013,49427,17.4,9,51,United States of America,University of Texas at Austin,1,1,Times Higher Education World University Ranking,100,Teaching,73
+14,2013,26199,5.7,10,51,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+118,2013,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+104,2013,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+67,2013,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+1056,2013,39655,10.8,11,51,United States of America,University of Wisconsin-Madison,21,3,Center for World University Rankings,82,Research,73
+60,2013,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+1028,2013,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+41,2013,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+40,2013,22020,27.3,11,52,United States of America,"University of California, Santa Barbara",1,1,Times Higher Education World University Ranking,100,Teaching,73
+158,2013,19835,17.6,38,53,Hong Kong,University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+107,2013,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+20,2013,27233,6.5,11,48,United States of America,"University of California, San Diego",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1032,2013,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+23,2013,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+70,2013,7774,11.5,22,70,Sweden,Karolinska Institute,8,2,Shanghai Ranking,88,International,64
+36,2013,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+45,2013,35364,13.9,13,54,United States of America,"University of California, Davis",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1029,2013,12528,5.7,17,54,United States of America,Washington University in St Louis,21,3,Center for World University Rankings,82,Research,73
+111,2013,40148,8.3,14,54,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+1033,2013,46825,18,13,52,United States of America,University of Minnesota,21,3,Center for World University Rankings,82,Research,73
+1035,2013,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+76,2013,34938,15.3,34,52,United Kingdom,University of Manchester,14,3,Center for World University Rankings,84,Research,72
+187,2013,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+66,2013,8653,10.1,19,20,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+114,2013,39763,13.7,10,32,China,Tsinghua University,14,3,Center for World University Rankings,84,Research,11
+1037,2013,51462,13.4,12,49,United States of America,Ohio State University,21,3,Center for World University Rankings,82,Research,73
+62,2013,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+17,2013,22809,5.6,7,58,Japan,Kyoto University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+44,2013,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1040,2013,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+1048,2013,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+75,2013,26389,13.9,10,54,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+1030,2013,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+1046,2013,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+94,2013,41868,20.2,28,57,Australia,University of Sydney,14,3,Center for World University Rankings,84,Research,2
+61,2013,2429,4.8,30,18,France,École Polytechnique,1,1,Times Higher Education World University Ranking,100,Teaching,20
+85,2013,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+292,2013,11385,23.8,36,59,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+1041,2013,34718,32.7,27,53,Australia,The University of Queensland,21,3,Center for World University Rankings,82,Research,2
+99,2013,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+134,2013,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+1045,2013,39256,18.1,22,42,United States of America,Purdue University,21,3,Center for World University Rankings,82,Research,73
+170,2013,25581,25.6,12,51,Germany,University of Göttingen,14,3,Center for World University Rankings,84,Research,21
+1051,2013,9248,17,21,56,Netherlands,Wageningen University and Research Center,21,3,Center for World University Rankings,82,Research,44
+121,2013,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+1034,2013,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+98,2013,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+57,2013,6333,9,26,44,United States of America,Rice University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1036,2013,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+276,2013,15920,19.4,25,26,Netherlands,Delft University of Technology,14,3,Center for World University Rankings,84,Research,44
+1042,2013,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+81,2013,12338,4.5,18,56,United States of America,Emory University,14,3,Center for World University Rankings,84,Research,73
+265,2013,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+1050,2013,27862,8.7,18,48,France,Pierre and Marie Curie University,21,3,Center for World University Rankings,82,Research,20
+125,2013,28251,11.5,15,48,Sweden,Lund University,14,3,Center for World University Rankings,84,Research,64
+130,2013,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+139,2013,38264,20.3,25,57,Canada,University of Montreal,14,3,Center for World University Rankings,84,Research,9
+152,2013,38309,25.9,33,47,Australia,University of New South Wales,14,3,Center for World University Rankings,84,Research,2
+151,2013,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+86,2013,10410,10,14,54,United States of America,Tufts University,14,3,Center for World University Rankings,84,Research,73
+145,2013,23823,19.3,15,53,Canada,McMaster University,14,3,Center for World University Rankings,84,Research,9
+133,2013,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+88,2013,26583,6.5,19,57,Switzerland,University of Zurich,14,3,Center for World University Rankings,84,Research,65
+46,2013,29325,16.1,8,45,United States of America,University of Colorado Boulder,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1087,2013,27603,15,17,45,France,Paris-Sud University,21,3,Center for World University Rankings,82,Research,20
+141,2013,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+123,2013,44750,15.7,15,51,United States of America,Michigan State University,14,3,Center for World University Rankings,84,Research,73
+112,2013,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+47,2013,26614,16.1,16,52,United States of America,"University of California, Irvine",1,1,Times Higher Education World University Ranking,100,Teaching,73
+68,2013,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+50,2013,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+160,2013,29987,52.5,16,52,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+171,2013,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+1044,2013,37032,17.3,8,51,United States of America,"Rutgers, the State University of New Jersey",21,3,Center for World University Rankings,82,Research,73
+53,2013,9390,4.5,26,49,United States of America,University of Rochester,1,1,Times Higher Education World University Ranking,100,Teaching,73
+78,2013,9259,6.4,17,48,United States of America,Case Western Reserve University,14,3,Center for World University Rankings,84,Research,73
+90,2013,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+131,2013,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+59,2013,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+324,2013,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+89,2013,23505,15.1,6,66,Finland,University of Helsinki,14,3,Center for World University Rankings,84,Research,19
+1039,2013,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+179,2013,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+191,2013,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+268,2013,20040,12.1,18,53,South Africa,University of Cape Town,14,3,Center for World University Rankings,84,Research,61
+354,2013,8176,16,14,19,Netherlands,Eindhoven University of Technology,14,3,Center for World University Rankings,84,Research,44
+251,2013,15626,18.9,48,56,Netherlands,Maastricht University,14,3,Center for World University Rankings,84,Research,44
+127,2013,23895,13.6,14,54,Denmark,Aarhus University,14,3,Center for World University Rankings,84,Research,16
+188,2013,31715,23.7,8,62,Sweden,Stockholm University,14,3,Center for World University Rankings,84,Research,64
+84,2013,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+542,2013,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+97,2013,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+108,2013,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+165,2013,17404,22.7,1,53,United States of America,"University of California, Santa Cruz",14,3,Center for World University Rankings,84,Research,73
+55,2013,50095,18.7,9,54,United States of America,University of Florida,1,1,Times Higher Education World University Ranking,100,Teaching,73
+203,2013,17916,10.2,22,53,Hong Kong,Chinese University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+58,2013,6178,6.6,16,47,United States of America,Dartmouth College,1,1,Times Higher Education World University Ranking,100,Teaching,73
+325,2013,18529,16.6,37,48,United Kingdom,University of Warwick,14,3,Center for World University Rankings,84,Research,72
+135,2013,17713,13,10,58,Netherlands,Radboud University Nijmegen,14,3,Center for World University Rankings,84,Research,44
+161,2013,33062,39.3,20,58,Germany,Free University of Berlin,14,3,Center for World University Rankings,84,Research,21
+117,2013,9586,7.3,13,13,Japan,Tokyo Institute of Technology,14,3,Center for World University Rankings,84,Research,33
+93,2013,27545,4.1,19,67,Denmark,University of Copenhagen,14,3,Center for World University Rankings,84,Research,16
+195,2013,11964,13.1,22,67,Switzerland,University of Lausanne,14,3,Center for World University Rankings,84,Research,65
+150,2013,20925,13.5,29,53,United Kingdom,University of Southampton,14,3,Center for World University Rankings,84,Research,72
+65,2013,15668,15,39,61,Switzerland,University of Geneva,1,1,Times Higher Education World University Ranking,100,Teaching,65
+1052,2013,62468,13.6,13,53,United States of America,Indiana University,21,3,Center for World University Rankings,82,Research,73
+113,2013,31891,11.9,7,39,Taiwan,National Taiwan University,14,3,Center for World University Rankings,84,Research,66
+38,2013,25674,16.9,9,45,United States of America,University of Utah,1,1,Times Higher Education World University Ranking,100,Teaching,73
+22,2013,17612,10.7,5,55,Israel,Hebrew University of Jerusalem,1,1,Times Higher Education World University Ranking,100,Teaching,31
+79,2013,17200,5,7,25,Japan,Tohoku University,14,3,Center for World University Rankings,84,Research,33
+142,2013,22616,16,29,57,United Kingdom,University of Glasgow,14,3,Center for World University Rankings,84,Research,72
+1055,2013,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+148,2013,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+157,2013,12551,17.3,24,54,Switzerland,University of Basel,14,3,Center for World University Rankings,84,Research,65
+154,2013,27703,14.7,21,58,United Kingdom,University of Leeds,14,3,Center for World University Rankings,84,Research,72
+1049,2013,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+450,2013,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+215,2013,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+32,2013,23144,7.8,9,31,Japan,Osaka University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+80,2013,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+198,2013,9990,5,18,27,Denmark,Technical University of Denmark,14,3,Center for World University Rankings,84,Research,16
+333,2013,13216,17.4,19,54,United States of America,Boston College,14,3,Center for World University Rankings,84,Research,73
+216,2013,25294,24.6,16,26,Germany,Karlsruhe Institute of Technology,14,3,Center for World University Rankings,84,Research,21
+202,2013,14708,22.5,14,54,Switzerland,University of Bern,14,3,Center for World University Rankings,84,Research,65
+358,2013,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+239,2013,37917,27.6,16,31,Germany,RWTH Aachen University,14,3,Center for World University Rankings,84,Research,21
+223,2013,20626,22,12,51,United States of America,"University of California, Riverside",14,3,Center for World University Rankings,84,Research,73
+1057,2013,50657,21.4,9,47,United States of America,Texas A&M University,21,3,Center for World University Rankings,82,Research,73
+173,2013,6753,5.5,7,53,United States of America,Yeshiva University,14,3,Center for World University Rankings,84,Research,73
+56,2013,23977,24.4,4,53,Israel,Tel Aviv University,1,1,Times Higher Education World University Ranking,100,Teaching,31
+146,2013,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+137,2013,81402,14.6,4,48,Brazil,University of São Paulo,14,3,Center for World University Rankings,84,Research,7
+274,2013,29787,18.9,28,54,New Zealand,University of Auckland,14,3,Center for World University Rankings,84,Research,45
+105,2013,21908,10.9,24,50,United States of America,Stony Brook University,14,3,Center for World University Rankings,84,Research,73
+206,2013,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+192,2013,28856,42,19,54,Belgium,Université catholique de Louvain,14,3,Center for World University Rankings,84,Research,6
+248,2013,19262,15.9,10,56,United States of America,University of Delaware,14,3,Center for World University Rankings,84,Research,73
+1058,2013,27756,14.8,17,63,France,Paris Diderot University – Paris 7,21,3,Center for World University Rankings,82,Research,20
+147,2013,16306,22.8,23,44,United States of America,University of Texas at Dallas,14,3,Center for World University Rankings,84,Research,73
+181,2013,20541,12,16,56,United States of America,George Washington University,14,3,Center for World University Rankings,84,Research,73
+132,2013,27526,11.6,11,52,United States of America,University of Iowa,14,3,Center for World University Rankings,84,Research,73
+463,2013,2218,8,14,49,France,École normale supérieure de Lyon,19,3,Center for World University Rankings,82,Research,20
+119,2013,32474,70.4,13,55,Germany,University of Bonn,14,3,Center for World University Rankings,84,Research,21
+212,2013,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+213,2013,36733,26.3,15,60,Canada,University of Ottawa,14,3,Center for World University Rankings,84,Research,9
+126,2013,15408,8.5,14,53,United States of America,Georgetown University,14,3,Center for World University Rankings,84,Research,73
+244,2013,6671,15,16,30,United States of America,Rensselaer Polytechnic Institute,14,3,Center for World University Rankings,84,Research,73
+277,2013,12938,15.8,33,54,United Kingdom,University of Aberdeen,14,3,Center for World University Rankings,84,Research,72
+341,2013,20771,30.1,26,48,Australia,University of Adelaide,14,3,Center for World University Rankings,84,Research,2
+351,2013,14992,14.7,28,58,United Kingdom,University of East Anglia,14,3,Center for World University Rankings,84,Research,72
+288,2013,12050,14.8,28,55,United Kingdom,University of Reading,14,3,Center for World University Rankings,84,Research,72
+222,2013,16130,12.1,13,55,France,Joseph Fourier University,14,3,Center for World University Rankings,84,Research,20
+230,2013,20174,15.2,29,50,United Kingdom,Newcastle University,14,3,Center for World University Rankings,84,Research,72
+376,2013,10015,7.1,28,51,Hong Kong,City University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+122,2013,24774,11.6,14,51,South Korea,Yonsei University,14,3,Center for World University Rankings,84,Research,62
+365,2013,5287,18.2,12,26,United States of America,Colorado School of Mines,14,3,Center for World University Rankings,84,Research,73
+219,2013,24313,9.2,17,53,United States of America,University of Illinois at Chicago,14,3,Center for World University Rankings,84,Research,73
+1038,2013,7867,11.8,7,54,United States of America,William & Mary,21,3,Center for World University Rankings,82,Research,73
+270,2013,22193,24.5,23,54,Ireland,University College Dublin,14,3,Center for World University Rankings,84,Research,30
+446,2013,6631,12,26,37,Netherlands,University of Twente,19,3,Center for World University Rankings,82,Research,44
+226,2013,20851,20.7,27,50,Australia,University of Western Australia,14,3,Center for World University Rankings,84,Research,2
+149,2013,7326,4.6,5,51,United States of America,Wake Forest University,14,3,Center for World University Rankings,84,Research,73
+331,2013,12346,30.3,16,56,Belgium,University of Antwerp,14,3,Center for World University Rankings,84,Research,6
+183,2013,29991,17.4,11,44,United States of America,Iowa State University,14,3,Center for World University Rankings,84,Research,73
+1060,2013,13855,19.4,4,35,Israel,Technion Israel Institute of Technology,21,3,Center for World University Rankings,82,Research,31
+143,2013,15286,5.7,14,50,United States of America,University of Miami,14,3,Center for World University Rankings,84,Research,73
+264,2013,14541,13.4,35,54,United Kingdom,University of Leicester,14,3,Center for World University Rankings,84,Research,72
+378,2013,17581,21.5,11,56,Canada,University of Victoria,14,3,Center for World University Rankings,84,Research,9
+1062,2013,25668,19,19,47,United States of America,University at Buffalo,21,3,Center for World University Rankings,82,Research,73
+163,2013,31861,9.3,15,60,Germany,Goethe University Frankfurt,14,3,Center for World University Rankings,84,Research,21
+625,2013,9454,17.2,38,55,United Kingdom,"Birkbeck, University of London",21,3,Center for World University Rankings,82,Research,72
+5,2014,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1,2014,20152,8.9,25,33,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+7,2014,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+3,2014,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+2,2014,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+6,2014,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2014,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+10,2014,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+11,2014,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+28,2014,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+8,2014,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+19,2014,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+9,2014,25055,5.9,28,52,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1025,2014,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+15,2014,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+13,2014,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+27,2014,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1026,2014,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+12,2014,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+35,2014,66198,19.5,15,48,Canada,University of Toronto,1,1,Times Higher Education World University Ranking,100,Teaching,9
+31,2014,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+33,2014,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+14,2014,26199,5.7,10,48,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+43,2014,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1027,2014,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+104,2014,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+30,2014,49427,17.4,9,51,United States of America,University of Texas at Austin,1,1,Times Higher Education World University Ranking,100,Teaching,73
+87,2014,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+1028,2014,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+1056,2014,39655,10.8,11,51,United States of America,University of Wisconsin-Madison,21,3,Center for World University Rankings,82,Research,73
+67,2014,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+40,2014,22020,27.3,11,52,United States of America,"University of California, Santa Barbara",1,1,Times Higher Education World University Ranking,100,Teaching,73
+118,2014,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+41,2014,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+70,2014,7774,11.5,22,70,Sweden,Karolinska Institute,8,2,Shanghai Ranking,88,International,64
+1032,2014,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+1040,2014,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+60,2014,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+23,2014,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+20,2014,27233,6.5,11,48,United States of America,"University of California, San Diego",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1029,2014,12528,5.7,17,48,United States of America,Washington University in St Louis,21,3,Center for World University Rankings,82,Research,73
+158,2014,19835,17.6,38,53,Hong Kong,University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+75,2014,26389,13.9,10,53,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+111,2014,40148,8.3,14,53,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+1033,2014,46825,18,13,52,United States of America,University of Minnesota,21,3,Center for World University Rankings,82,Research,73
+36,2014,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+107,2014,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+1046,2014,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+62,2014,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+114,2014,39763,13.7,10,32,China,Tsinghua University,14,3,Center for World University Rankings,84,Research,11
+66,2014,8653,10.1,19,32,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+17,2014,22809,5.6,7,32,Japan,Kyoto University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+45,2014,35364,13.9,13,54,United States of America,"University of California, Davis",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1035,2014,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+134,2014,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+292,2014,11385,23.8,36,20,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+76,2014,34938,15.3,34,52,United Kingdom,University of Manchester,14,3,Center for World University Rankings,84,Research,72
+1037,2014,51462,13.4,12,49,United States of America,Ohio State University,21,3,Center for World University Rankings,82,Research,73
+187,2014,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+1048,2014,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+1045,2014,39256,18.1,22,42,United States of America,Purdue University,21,3,Center for World University Rankings,82,Research,73
+1041,2014,34718,32.7,27,53,Australia,The University of Queensland,21,3,Center for World University Rankings,82,Research,2
+170,2014,25581,25.6,12,51,Germany,University of Göttingen,14,3,Center for World University Rankings,84,Research,21
+57,2014,6333,9,26,44,United States of America,Rice University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1030,2014,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+85,2014,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+1042,2014,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+276,2014,15920,19.4,25,26,Netherlands,Delft University of Technology,14,3,Center for World University Rankings,84,Research,44
+44,2014,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+61,2014,2429,4.8,30,18,France,École Polytechnique,1,1,Times Higher Education World University Ranking,100,Teaching,20
+94,2014,41868,20.2,28,57,Australia,University of Sydney,14,3,Center for World University Rankings,84,Research,2
+121,2014,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+157,2014,12551,17.3,24,54,Switzerland,University of Basel,14,3,Center for World University Rankings,84,Research,65
+99,2014,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+151,2014,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+1051,2014,9248,17,21,56,Netherlands,Wageningen University and Research Center,21,3,Center for World University Rankings,82,Research,44
+1036,2014,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+98,2014,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+265,2014,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+81,2014,12338,4.5,18,56,United States of America,Emory University,14,3,Center for World University Rankings,84,Research,73
+86,2014,10410,10,14,54,United States of America,Tufts University,14,3,Center for World University Rankings,84,Research,73
+123,2014,44750,15.7,15,51,United States of America,Michigan State University,14,3,Center for World University Rankings,84,Research,73
+130,2014,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+141,2014,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+161,2014,33062,39.3,20,58,Germany,Free University of Berlin,14,3,Center for World University Rankings,84,Research,21
+90,2014,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+78,2014,9259,6.4,17,48,United States of America,Case Western Reserve University,14,3,Center for World University Rankings,84,Research,73
+59,2014,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+112,2014,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+171,2014,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+145,2014,23823,19.3,15,53,Canada,McMaster University,14,3,Center for World University Rankings,84,Research,9
+47,2014,26614,16.1,16,52,United States of America,"University of California, Irvine",1,1,Times Higher Education World University Ranking,100,Teaching,73
+160,2014,29987,52.5,16,52,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+53,2014,9390,4.5,26,49,United States of America,University of Rochester,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1050,2014,27862,8.7,18,48,France,Pierre and Marie Curie University,21,3,Center for World University Rankings,82,Research,20
+46,2014,29325,16.1,8,45,United States of America,University of Colorado Boulder,1,1,Times Higher Education World University Ranking,100,Teaching,73
+251,2014,15626,18.9,48,56,Netherlands,Maastricht University,14,3,Center for World University Rankings,84,Research,44
+133,2014,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+89,2014,23505,15.1,6,66,Finland,University of Helsinki,14,3,Center for World University Rankings,84,Research,19
+542,2014,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+1044,2014,37032,17.3,8,51,United States of America,"Rutgers, the State University of New Jersey",21,3,Center for World University Rankings,82,Research,73
+188,2014,31715,23.7,8,62,Sweden,Stockholm University,14,3,Center for World University Rankings,84,Research,64
+50,2014,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+354,2014,8176,16,14,19,Netherlands,Eindhoven University of Technology,14,3,Center for World University Rankings,84,Research,44
+139,2014,38264,20.3,25,57,Canada,University of Montreal,14,3,Center for World University Rankings,84,Research,9
+68,2014,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+203,2014,17916,10.2,22,53,Hong Kong,Chinese University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+108,2014,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+131,2014,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+179,2014,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+84,2014,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+1087,2014,27603,15,17,52,France,Paris-Sud University,21,3,Center for World University Rankings,82,Research,20
+215,2014,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+152,2014,38309,25.9,33,47,Australia,University of New South Wales,14,3,Center for World University Rankings,84,Research,2
+1055,2014,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+198,2014,9990,5,18,27,Denmark,Technical University of Denmark,14,3,Center for World University Rankings,84,Research,16
+142,2014,22616,16,29,57,United Kingdom,University of Glasgow,14,3,Center for World University Rankings,84,Research,72
+324,2014,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+191,2014,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+88,2014,26583,6.5,19,57,Switzerland,University of Zurich,14,3,Center for World University Rankings,84,Research,65
+125,2014,28251,11.5,15,57,Sweden,Lund University,14,3,Center for World University Rankings,84,Research,64
+65,2014,15668,15,39,61,Switzerland,University of Geneva,1,1,Times Higher Education World University Ranking,100,Teaching,65
+117,2014,9586,7.3,13,13,Japan,Tokyo Institute of Technology,14,3,Center for World University Rankings,84,Research,33
+58,2014,6178,6.6,16,47,United States of America,Dartmouth College,1,1,Times Higher Education World University Ranking,100,Teaching,73
+268,2014,20040,12.1,18,53,South Africa,University of Cape Town,14,3,Center for World University Rankings,84,Research,61
+55,2014,50095,18.7,9,54,United States of America,University of Florida,1,1,Times Higher Education World University Ranking,100,Teaching,73
+239,2014,37917,27.6,16,31,Germany,RWTH Aachen University,14,3,Center for World University Rankings,84,Research,21
+1039,2014,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+135,2014,17713,13,10,58,Netherlands,Radboud University Nijmegen,14,3,Center for World University Rankings,84,Research,44
+1052,2014,62468,13.6,13,53,United States of America,Indiana University,21,3,Center for World University Rankings,82,Research,73
+195,2014,11964,13.1,22,53,Switzerland,University of Lausanne,14,3,Center for World University Rankings,84,Research,65
+1034,2014,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+333,2014,13216,17.4,19,54,United States of America,Boston College,14,3,Center for World University Rankings,84,Research,73
+165,2014,17404,22.7,1,53,United States of America,"University of California, Santa Cruz",14,3,Center for World University Rankings,84,Research,73
+450,2014,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+127,2014,23895,13.6,14,54,Denmark,Aarhus University,14,3,Center for World University Rankings,84,Research,16
+365,2014,5287,18.2,12,26,United States of America,Colorado School of Mines,14,3,Center for World University Rankings,84,Research,73
+154,2014,27703,14.7,21,58,United Kingdom,University of Leeds,14,3,Center for World University Rankings,84,Research,72
+325,2014,18529,16.6,37,48,United Kingdom,University of Warwick,14,3,Center for World University Rankings,84,Research,72
+113,2014,31891,11.9,7,39,Taiwan,National Taiwan University,14,3,Center for World University Rankings,84,Research,66
+38,2014,25674,16.9,9,45,United States of America,University of Utah,1,1,Times Higher Education World University Ranking,100,Teaching,73
+32,2014,23144,7.8,9,31,Japan,Osaka University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+148,2014,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+80,2014,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+150,2014,20925,13.5,29,53,United Kingdom,University of Southampton,14,3,Center for World University Rankings,84,Research,72
+223,2014,20626,22,12,51,United States of America,"University of California, Riverside",14,3,Center for World University Rankings,84,Research,73
+358,2014,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+79,2014,17200,5,7,25,Japan,Tohoku University,14,3,Center for World University Rankings,84,Research,33
+93,2014,27545,4.1,19,67,Denmark,University of Copenhagen,14,3,Center for World University Rankings,84,Research,16
+1049,2014,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+146,2014,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+216,2014,25294,24.6,16,26,Germany,Karlsruhe Institute of Technology,14,3,Center for World University Rankings,84,Research,21
+222,2014,16130,12.1,13,26,France,Joseph Fourier University,14,3,Center for World University Rankings,84,Research,20
+463,2014,2218,8,14,49,France,École normale supérieure de Lyon,19,3,Center for World University Rankings,82,Research,20
+202,2014,14708,22.5,14,54,Switzerland,University of Bern,14,3,Center for World University Rankings,84,Research,65
+97,2014,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+1057,2014,50657,21.4,9,47,United States of America,Texas A&M University,21,3,Center for World University Rankings,82,Research,73
+126,2014,15408,8.5,14,53,United States of America,Georgetown University,14,3,Center for World University Rankings,84,Research,73
+270,2014,22193,24.5,23,53,Ireland,University College Dublin,14,3,Center for World University Rankings,84,Research,30
+132,2014,27526,11.6,11,52,United States of America,University of Iowa,14,3,Center for World University Rankings,84,Research,73
+264,2014,14541,13.4,35,54,United Kingdom,University of Leicester,14,3,Center for World University Rankings,84,Research,72
+237,2014,5495,12.6,22,55,United States of America,Brandeis University,14,3,Center for World University Rankings,84,Research,73
+427,2014,10901,18.3,13,59,Spain,Pompeu Fabra University,19,3,Center for World University Rankings,82,Research,63
+331,2014,12346,30.3,16,56,Belgium,University of Antwerp,14,3,Center for World University Rankings,84,Research,6
+274,2014,29787,18.9,28,54,New Zealand,University of Auckland,14,3,Center for World University Rankings,84,Research,45
+226,2014,20851,20.7,27,50,Australia,University of Western Australia,14,3,Center for World University Rankings,84,Research,2
+212,2014,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+446,2014,6631,12,26,37,Netherlands,University of Twente,19,3,Center for World University Rankings,82,Research,44
+206,2014,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+192,2014,28856,42,19,54,Belgium,Université catholique de Louvain,14,3,Center for World University Rankings,84,Research,6
+173,2014,6753,5.5,7,53,United States of America,Yeshiva University,14,3,Center for World University Rankings,84,Research,73
+248,2014,19262,15.9,10,56,United States of America,University of Delaware,14,3,Center for World University Rankings,84,Research,73
+351,2014,14992,14.7,28,58,United Kingdom,University of East Anglia,14,3,Center for World University Rankings,84,Research,72
+1062,2014,25668,19,19,47,United States of America,University at Buffalo,21,3,Center for World University Rankings,82,Research,73
+144,2014,23819,26.1,32,54,Belgium,Université libre de Bruxelles,14,3,Center for World University Rankings,84,Research,6
+1058,2014,27756,14.8,17,63,France,Paris Diderot University – Paris 7,21,3,Center for World University Rankings,82,Research,20
+105,2014,21908,10.9,24,50,United States of America,Stony Brook University,14,3,Center for World University Rankings,84,Research,73
+149,2014,7326,4.6,5,51,United States of America,Wake Forest University,14,3,Center for World University Rankings,84,Research,73
+244,2014,6671,15,16,30,United States of America,Rensselaer Polytechnic Institute,14,3,Center for World University Rankings,84,Research,73
+119,2014,32474,70.4,13,55,Germany,University of Bonn,14,3,Center for World University Rankings,84,Research,21
+183,2014,29991,17.4,11,44,United States of America,Iowa State University,14,3,Center for World University Rankings,84,Research,73
+319,2014,18539,15.1,26,50,United States of America,Northeastern University,14,3,Center for World University Rankings,84,Research,73
+143,2014,15286,5.7,14,50,United States of America,University of Miami,14,3,Center for World University Rankings,84,Research,73
+91,2014,27139,18.8,18,50,Norway,University of Oslo,14,3,Center for World University Rankings,84,Research,47
+213,2014,36733,26.3,15,60,Canada,University of Ottawa,14,3,Center for World University Rankings,84,Research,9
+277,2014,12938,15.8,33,54,United Kingdom,University of Aberdeen,14,3,Center for World University Rankings,84,Research,72
+147,2014,16306,22.8,23,44,United States of America,University of Texas at Dallas,14,3,Center for World University Rankings,84,Research,73
+122,2014,24774,11.6,14,44,South Korea,Yonsei University,14,3,Center for World University Rankings,84,Research,62
+22,2014,17612,10.7,5,55,Israel,Hebrew University of Jerusalem,1,1,Times Higher Education World University Ranking,100,Teaching,31
+219,2014,24313,9.2,17,53,United States of America,University of Illinois at Chicago,14,3,Center for World University Rankings,84,Research,73
+100,2014,1283,5.6,22,28,France,Mines ParisTech,14,3,Center for World University Rankings,84,Research,20
+181,2014,20541,12,16,56,United States of America,George Washington University,14,3,Center for World University Rankings,84,Research,73
+288,2014,12050,14.8,28,55,United Kingdom,University of Reading,14,3,Center for World University Rankings,84,Research,72
+253,2014,11628,15.3,25,60,United Kingdom,University of Dundee,14,3,Center for World University Rankings,84,Research,72
+854,2014,4408,13.7,26,34,United States of America,Florida Institute of Technology,21,3,Center for World University Rankings,82,Research,73
+230,2014,20174,15.2,29,50,United Kingdom,Newcastle University,14,3,Center for World University Rankings,84,Research,72
+904,2014,11506,25,7,50,Turkey,Boğaziçi University,21,3,Center for World University Rankings,82,Research,68
+56,2014,23977,24.4,4,50,Israel,Tel Aviv University,1,1,Times Higher Education World University Ranking,100,Teaching,31
+5,2015,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1,2015,20152,8.9,25,33,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+7,2015,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+3,2015,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2015,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+2,2015,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+6,2015,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+10,2015,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+28,2015,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+8,2015,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+11,2015,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+19,2015,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1025,2015,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+9,2015,25055,5.9,28,31,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+15,2015,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+13,2015,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1026,2015,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+27,2015,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+12,2015,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+35,2015,66198,19.5,15,48,Canada,University of Toronto,1,1,Times Higher Education World University Ranking,100,Teaching,9
+33,2015,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+31,2015,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+14,2015,26199,5.7,10,56,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+43,2015,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+104,2015,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+1027,2015,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+87,2015,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+30,2015,49427,17.4,9,51,United States of America,University of Texas at Austin,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1035,2015,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+1028,2015,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+1056,2015,39655,10.8,11,51,United States of America,University of Wisconsin-Madison,21,3,Center for World University Rankings,82,Research,73
+67,2015,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+118,2015,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+1032,2015,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+60,2015,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+40,2015,22020,27.3,11,52,United States of America,"University of California, Santa Barbara",1,1,Times Higher Education World University Ranking,100,Teaching,73
+23,2015,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+41,2015,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+1040,2015,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+20,2015,27233,6.5,11,48,United States of America,"University of California, San Diego",1,1,Times Higher Education World University Ranking,100,Teaching,73
+1029,2015,12528,5.7,17,48,United States of America,Washington University in St Louis,21,3,Center for World University Rankings,82,Research,73
+158,2015,19835,17.6,38,53,Hong Kong,University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+70,2015,7774,11.5,22,70,Sweden,Karolinska Institute,8,2,Shanghai Ranking,88,International,64
+107,2015,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+1033,2015,46825,18,13,52,United States of America,University of Minnesota,21,3,Center for World University Rankings,82,Research,73
+36,2015,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+111,2015,40148,8.3,14,58,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+114,2015,39763,13.7,10,32,China,Tsinghua University,14,3,Center for World University Rankings,84,Research,11
+75,2015,26389,13.9,10,32,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+292,2015,11385,23.8,36,32,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+134,2015,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+76,2015,34938,15.3,34,52,United Kingdom,University of Manchester,14,3,Center for World University Rankings,84,Research,72
+66,2015,8653,10.1,19,52,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1048,2015,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+45,2015,35364,13.9,13,54,United States of America,"University of California, Davis",1,1,Times Higher Education World University Ranking,100,Teaching,73
+62,2015,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1046,2015,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+17,2015,22809,5.6,7,46,Japan,Kyoto University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+94,2015,41868,20.2,28,57,Australia,University of Sydney,14,3,Center for World University Rankings,84,Research,2
+151,2015,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+61,2015,2429,4.8,30,18,France,École Polytechnique,1,1,Times Higher Education World University Ranking,100,Teaching,20
+384,2015,462,16.5,5,28,Italy,Scuola Normale Superiore di Pisa,14,3,Center for World University Rankings,84,Research,32
+85,2015,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+1041,2015,34718,32.7,27,53,Australia,The University of Queensland,21,3,Center for World University Rankings,82,Research,2
+187,2015,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+170,2015,25581,25.6,12,51,Germany,University of Göttingen,14,3,Center for World University Rankings,84,Research,21
+1037,2015,51462,13.4,12,49,United States of America,Ohio State University,21,3,Center for World University Rankings,82,Research,73
+57,2015,6333,9,26,44,United States of America,Rice University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1042,2015,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+276,2015,15920,19.4,25,26,Netherlands,Delft University of Technology,14,3,Center for World University Rankings,84,Research,44
+121,2015,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+1051,2015,9248,17,21,56,Netherlands,Wageningen University and Research Center,21,3,Center for World University Rankings,82,Research,44
+98,2015,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+157,2015,12551,17.3,24,54,Switzerland,University of Basel,14,3,Center for World University Rankings,84,Research,65
+44,2015,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+130,2015,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+1030,2015,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+99,2015,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+160,2015,29987,52.5,16,59,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+161,2015,33062,39.3,20,58,Germany,Free University of Berlin,14,3,Center for World University Rankings,84,Research,21
+123,2015,44750,15.7,15,51,United States of America,Michigan State University,14,3,Center for World University Rankings,84,Research,73
+265,2015,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+171,2015,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+397,2015,25779,22.2,7,44,Turkey,Middle East Technical University,19,3,Center for World University Rankings,82,Research,68
+50,2015,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+112,2015,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+86,2015,10410,10,14,54,United States of America,Tufts University,14,3,Center for World University Rankings,84,Research,73
+47,2015,26614,16.1,16,52,United States of America,"University of California, Irvine",1,1,Times Higher Education World University Ranking,100,Teaching,73
+141,2015,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+1034,2015,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+1036,2015,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+81,2015,12338,4.5,18,56,United States of America,Emory University,14,3,Center for World University Rankings,84,Research,73
+145,2015,23823,19.3,15,53,Canada,McMaster University,14,3,Center for World University Rankings,84,Research,9
+142,2015,22616,16,29,57,United Kingdom,University of Glasgow,14,3,Center for World University Rankings,84,Research,72
+59,2015,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+46,2015,29325,16.1,8,45,United States of America,University of Colorado Boulder,1,1,Times Higher Education World University Ranking,100,Teaching,73
+188,2015,31715,23.7,8,62,Sweden,Stockholm University,14,3,Center for World University Rankings,84,Research,64
+90,2015,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+131,2015,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+251,2015,15626,18.9,48,56,Netherlands,Maastricht University,14,3,Center for World University Rankings,84,Research,44
+1045,2015,39256,18.1,22,42,United States of America,Purdue University,21,3,Center for World University Rankings,82,Research,73
+1050,2015,27862,8.7,18,48,France,Pierre and Marie Curie University,21,3,Center for World University Rankings,82,Research,20
+89,2015,23505,15.1,6,66,Finland,University of Helsinki,14,3,Center for World University Rankings,84,Research,19
+325,2015,18529,16.6,37,48,United Kingdom,University of Warwick,14,3,Center for World University Rankings,84,Research,72
+88,2015,26583,6.5,19,57,Switzerland,University of Zurich,14,3,Center for World University Rankings,84,Research,65
+215,2015,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+65,2015,15668,15,39,61,Switzerland,University of Geneva,1,1,Times Higher Education World University Ranking,100,Teaching,65
+165,2015,17404,22.7,1,53,United States of America,"University of California, Santa Cruz",14,3,Center for World University Rankings,84,Research,73
+152,2015,38309,25.9,33,47,Australia,University of New South Wales,14,3,Center for World University Rankings,84,Research,2
+324,2015,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+191,2015,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+139,2015,38264,20.3,25,57,Canada,University of Montreal,14,3,Center for World University Rankings,84,Research,9
+162,2015,28327,38.9,12,58,Germany,University of Tübingen,14,3,Center for World University Rankings,84,Research,21
+78,2015,9259,6.4,17,48,United States of America,Case Western Reserve University,14,3,Center for World University Rankings,84,Research,73
+133,2015,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+542,2015,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+125,2015,28251,11.5,15,57,Sweden,Lund University,14,3,Center for World University Rankings,84,Research,64
+1087,2015,27603,15,17,57,France,Paris-Sud University,21,3,Center for World University Rankings,82,Research,20
+198,2015,9990,5,18,27,Denmark,Technical University of Denmark,14,3,Center for World University Rankings,84,Research,16
+53,2015,9390,4.5,26,49,United States of America,University of Rochester,1,1,Times Higher Education World University Ranking,100,Teaching,73
+179,2015,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+108,2015,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+268,2015,20040,12.1,18,53,South Africa,University of Cape Town,14,3,Center for World University Rankings,84,Research,61
+333,2015,13216,17.4,19,54,United States of America,Boston College,14,3,Center for World University Rankings,84,Research,73
+1055,2015,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+55,2015,50095,18.7,9,54,United States of America,University of Florida,1,1,Times Higher Education World University Ranking,100,Teaching,73
+203,2015,17916,10.2,22,53,Hong Kong,Chinese University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+84,2015,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+450,2015,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+202,2015,14708,22.5,14,54,Switzerland,University of Bern,14,3,Center for World University Rankings,84,Research,65
+68,2015,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+150,2015,20925,13.5,29,53,United Kingdom,University of Southampton,14,3,Center for World University Rankings,84,Research,72
+1072,2015,35487,37.4,12,42,Germany,TU Dresden,21,3,Center for World University Rankings,82,Research,21
+195,2015,11964,13.1,22,42,Switzerland,University of Lausanne,14,3,Center for World University Rankings,84,Research,65
+148,2015,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+1039,2015,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+904,2015,11506,25,7,50,Turkey,Boğaziçi University,21,3,Center for World University Rankings,82,Research,68
+135,2015,17713,13,10,58,Netherlands,Radboud University Nijmegen,14,3,Center for World University Rankings,84,Research,44
+365,2015,5287,18.2,12,26,United States of America,Colorado School of Mines,14,3,Center for World University Rankings,84,Research,73
+1057,2015,50657,21.4,9,47,United States of America,Texas A&M University,21,3,Center for World University Rankings,82,Research,73
+117,2015,9586,7.3,13,13,Japan,Tokyo Institute of Technology,14,3,Center for World University Rankings,84,Research,33
+354,2015,8176,16,14,19,Netherlands,Eindhoven University of Technology,14,3,Center for World University Rankings,84,Research,44
+1044,2015,37032,17.3,8,51,United States of America,"Rutgers, the State University of New Jersey",21,3,Center for World University Rankings,82,Research,73
+154,2015,27703,14.7,21,58,United Kingdom,University of Leeds,14,3,Center for World University Rankings,84,Research,72
+237,2015,5495,12.6,22,55,United States of America,Brandeis University,14,3,Center for World University Rankings,84,Research,73
+1080,2015,24365,20.3,9,39,South Korea,Sungkyunkwan University (SKKU),21,3,Center for World University Rankings,82,Research,62
+146,2015,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+1052,2015,62468,13.6,13,53,United States of America,Indiana University,21,3,Center for World University Rankings,82,Research,73
+223,2015,20626,22,12,51,United States of America,"University of California, Riverside",14,3,Center for World University Rankings,84,Research,73
+58,2015,6178,6.6,16,47,United States of America,Dartmouth College,1,1,Times Higher Education World University Ranking,100,Teaching,73
+127,2015,23895,13.6,14,54,Denmark,Aarhus University,14,3,Center for World University Rankings,84,Research,16
+358,2015,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+113,2015,31891,11.9,7,39,Taiwan,National Taiwan University,14,3,Center for World University Rankings,84,Research,66
+239,2015,37917,27.6,16,31,Germany,RWTH Aachen University,14,3,Center for World University Rankings,84,Research,21
+32,2015,23144,7.8,9,31,Japan,Osaka University,1,1,Times Higher Education World University Ranking,100,Teaching,33
+212,2015,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+226,2015,20851,20.7,27,50,Australia,University of Western Australia,14,3,Center for World University Rankings,84,Research,2
+93,2015,27545,4.1,19,67,Denmark,University of Copenhagen,14,3,Center for World University Rankings,84,Research,16
+463,2015,2218,8,14,49,France,École normale supérieure de Lyon,19,3,Center for World University Rankings,82,Research,20
+38,2015,25674,16.9,9,45,United States of America,University of Utah,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1049,2015,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+341,2015,20771,30.1,26,48,Australia,University of Adelaide,14,3,Center for World University Rankings,84,Research,2
+774,2015,34550,16,5,34,Turkey,Istanbul Technical University,21,3,Center for World University Rankings,82,Research,68
+216,2015,25294,24.6,16,26,Germany,Karlsruhe Institute of Technology,14,3,Center for World University Rankings,84,Research,21
+427,2015,10901,18.3,13,59,Spain,Pompeu Fabra University,19,3,Center for World University Rankings,82,Research,63
+79,2015,17200,5,7,25,Japan,Tohoku University,14,3,Center for World University Rankings,84,Research,33
+143,2015,15286,5.7,14,50,United States of America,University of Miami,14,3,Center for World University Rankings,84,Research,73
+331,2015,12346,30.3,16,56,Belgium,University of Antwerp,14,3,Center for World University Rankings,84,Research,6
+97,2015,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+192,2015,28856,42,19,54,Belgium,Université catholique de Louvain,14,3,Center for World University Rankings,84,Research,6
+126,2015,15408,8.5,14,53,United States of America,Georgetown University,14,3,Center for World University Rankings,84,Research,73
+378,2015,17581,21.5,11,56,Canada,University of Victoria,14,3,Center for World University Rankings,84,Research,9
+274,2015,29787,18.9,28,54,New Zealand,University of Auckland,14,3,Center for World University Rankings,84,Research,45
+132,2015,27526,11.6,11,52,United States of America,University of Iowa,14,3,Center for World University Rankings,84,Research,73
+449,2015,19660,15.9,15,55,United States of America,Syracuse University,19,3,Center for World University Rankings,82,Research,73
+222,2015,16130,12.1,13,55,France,Joseph Fourier University,14,3,Center for World University Rankings,84,Research,20
+277,2015,12938,15.8,33,54,United Kingdom,University of Aberdeen,14,3,Center for World University Rankings,84,Research,72
+1058,2015,27756,14.8,17,63,France,Paris Diderot University – Paris 7,21,3,Center for World University Rankings,82,Research,20
+248,2015,19262,15.9,10,56,United States of America,University of Delaware,14,3,Center for World University Rankings,84,Research,73
+80,2015,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+1099,2015,2739,15.9,6,39,Turkey,Sabancı University,21,3,Center for World University Rankings,82,Research,68
+206,2015,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+319,2015,18539,15.1,26,50,United States of America,Northeastern University,14,3,Center for World University Rankings,84,Research,73
+91,2015,27139,18.8,18,50,Norway,University of Oslo,14,3,Center for World University Rankings,84,Research,47
+173,2015,6753,5.5,7,53,United States of America,Yeshiva University,14,3,Center for World University Rankings,84,Research,73
+105,2015,21908,10.9,24,50,United States of America,Stony Brook University,14,3,Center for World University Rankings,84,Research,73
+56,2015,23977,24.4,4,50,Israel,Tel Aviv University,1,1,Times Higher Education World University Ranking,100,Teaching,31
+213,2015,36733,26.3,15,60,Canada,University of Ottawa,14,3,Center for World University Rankings,84,Research,9
+1062,2015,25668,19,19,47,United States of America,University at Buffalo,21,3,Center for World University Rankings,82,Research,73
+376,2015,10015,7.1,28,51,Hong Kong,City University of Hong Kong,14,3,Center for World University Rankings,84,Research,24
+190,2015,32175,12.2,11,50,China,Fudan University,14,3,Center for World University Rankings,84,Research,11
+183,2015,29991,17.4,11,44,United States of America,Iowa State University,14,3,Center for World University Rankings,84,Research,73
+119,2015,32474,70.4,13,55,Germany,University of Bonn,14,3,Center for World University Rankings,84,Research,21
+106,2015,30822,7.7,20,43,Russia,Lomonosov Moscow State University,14,3,Center for World University Rankings,84,Research,55
+1088,2015,2958,13.4,17,61,United Kingdom,"St George’s, University of London",21,3,Center for World University Rankings,82,Research,72
+351,2015,14992,14.7,28,58,United Kingdom,University of East Anglia,14,3,Center for World University Rankings,84,Research,72
+264,2015,14541,13.4,35,54,United Kingdom,University of Leicester,14,3,Center for World University Rankings,84,Research,72
+854,2015,4408,13.7,26,34,United States of America,Florida Institute of Technology,21,3,Center for World University Rankings,82,Research,73
+181,2015,20541,12,16,56,United States of America,George Washington University,14,3,Center for World University Rankings,84,Research,73
+5,2016,2243,6.9,27,33,United States of America,California Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+7,2016,19919,11.6,34,46,United Kingdom,University of Oxford,1,1,Times Higher Education World University Ranking,100,Teaching,72
+3,2016,15596,7.8,22,42,United States of America,Stanford University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+4,2016,18812,11.8,34,46,United Kingdom,University of Cambridge,1,1,Times Higher Education World University Ranking,100,Teaching,72
+2,2016,11074,9,33,37,United States of America,Massachusetts Institute of Technology,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1,2016,20152,8.9,25,37,United States of America,Harvard University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+6,2016,7929,8.4,27,45,United States of America,Princeton University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+28,2016,15060,11.7,51,37,United Kingdom,Imperial College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+1025,2016,18178,14.7,37,31,Switzerland,ETH Zurich – Swiss Federal Institute of Technology Zurich,21,3,Center for World University Rankings,82,Research,65
+11,2016,14221,6.9,21,42,United States of America,University of Chicago,1,1,Times Higher Education World University Ranking,100,Teaching,73
+15,2016,15128,3.6,23,50,United States of America,Johns Hopkins University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+8,2016,11751,4.4,20,50,United States of America,Yale University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+10,2016,36186,16.4,15,50,United States of America,"University of California, Berkeley",1,1,Times Higher Education World University Ranking,100,Teaching,73
+31,2016,26607,10.7,46,56,United Kingdom,University College London,1,1,Times Higher Education World University Ranking,100,Teaching,72
+9,2016,25055,5.9,28,56,United States of America,Columbia University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+19,2016,38206,10.3,15,52,United States of America,"University of California, Los Angeles",1,1,Times Higher Education World University Ranking,100,Teaching,73
+13,2016,20376,6.5,20,51,United States of America,University of Pennsylvania,1,1,Times Higher Education World University Ranking,100,Teaching,73
+12,2016,21424,10.2,19,48,United States of America,Cornell University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+35,2016,66198,19.5,15,48,Canada,University of Toronto,1,1,Times Higher Education World University Ranking,100,Teaching,9
+27,2016,15172,4.8,17,49,United States of America,Duke University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1026,2016,41786,9,16,48,United States of America,University of Michigan,21,3,Center for World University Rankings,82,Research,73
+43,2016,11885,13.1,35,39,United States of America,Carnegie Mellon University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+60,2016,25774,14.1,36,58,United Kingdom,University of Edinburgh,1,1,Times Higher Education World University Ranking,100,Teaching,72
+33,2016,18334,13.8,15,48,United States of America,Northwestern University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+104,2016,31592,15.5,34,49,Singapore,National University of Singapore,14,3,Center for World University Rankings,84,Research,58
+1040,2016,21394,11.4,37,61,United Kingdom,King’s College London,21,3,Center for World University Rankings,82,Research,72
+70,2016,7774,11.5,22,70,Sweden,Karolinska Institute,8,2,Shanghai Ranking,88,International,64
+1035,2016,35691,15.5,13,62,Germany,LMU Munich,21,3,Center for World University Rankings,82,Research,21
+23,2016,42056,6.8,19,55,United States of America,New York University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+1032,2016,9666,10.5,54,27,Switzerland,École Polytechnique Fédérale de Lausanne,21,3,Center for World University Rankings,82,Research,65
+1027,2016,44020,11.8,13,53,United States of America,University of Washington,21,3,Center for World University Rankings,82,Research,73
+118,2016,40128,23.7,35,55,Australia,University of Melbourne,14,3,Center for World University Rankings,84,Research,2
+67,2016,50152,17.6,25,54,Canada,University of British Columbia,1,1,Times Higher Education World University Ranking,100,Teaching,9
+1048,2016,42503,41.9,18,54,Belgium,KU Leuven,21,3,Center for World University Rankings,82,Research,6
+1028,2016,42727,18.7,20,47,United States of America,University of Illinois at Urbana-Champaign,21,3,Center for World University Rankings,82,Research,73
+1042,2016,28881,24.5,17,55,Germany,Heidelberg University,21,3,Center for World University Rankings,82,Research,21
+41,2016,31326,13.7,23,56,Canada,McGill University,1,1,Times Higher Education World University Ranking,100,Teaching,9
+87,2016,19967,20.1,26,31,United States of America,Georgia Institute of Technology,14,3,Center for World University Rankings,84,Research,73
+111,2016,40148,8.3,14,31,China,Peking University,14,3,Center for World University Rankings,84,Research,11
+14,2016,26199,5.7,10,31,Japan,University of Tokyo,1,1,Times Higher Education World University Ranking,100,Teaching,33
+30,2016,49427,17.4,9,51,United States of America,University of Texas at Austin,1,1,Times Higher Education World University Ranking,100,Teaching,73
+160,2016,29987,52.5,16,51,Germany,Humboldt University of Berlin,14,3,Center for World University Rankings,84,Research,21
+1056,2016,39655,10.8,11,51,United States of America,University of Wisconsin-Madison,21,3,Center for World University Rankings,82,Research,73
+66,2016,8653,10.1,19,51,United States of America,Brown University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+107,2016,14604,19.2,35,52,Australia,Australian National University,14,3,Center for World University Rankings,84,Research,2
+90,2016,35565,31.5,20,33,Germany,Technical University of Munich,14,3,Center for World University Rankings,84,Research,21
+1030,2016,2400,7.9,20,46,France,École Normale Supérieure,21,3,Center for World University Rankings,82,Research,20
+151,2016,25028,16.2,33,48,Singapore,Nanyang Technological University,14,3,Center for World University Rankings,84,Research,58
+130,2016,24570,14.4,11,53,Netherlands,University of Amsterdam,14,3,Center for World University Rankings,84,Research,44
+292,2016,11385,23.8,36,53,Hong Kong,Hong Kong University of Science and Technology,14,3,Center for World University Rankings,84,Research,24
+99,2016,30779,15.4,7,59,Netherlands,Utrecht University,14,3,Center for World University Rankings,84,Research,44
+36,2016,26518,7.3,8,58,United States of America,University of North Carolina at Chapel Hill,1,1,Times Higher Education World University Ranking,100,Teaching,73
+62,2016,24789,8.6,17,58,United States of America,Boston University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+85,2016,21222,17.1,10,59,Netherlands,Leiden University,14,3,Center for World University Rankings,84,Research,44
+44,2016,36534,12.9,20,52,United States of America,University of Southern California,1,1,Times Higher Education World University Ranking,100,Teaching,73
+98,2016,17906,14,25,53,United Kingdom,University of Bristol,14,3,Center for World University Rankings,84,Research,72
+265,2016,15489,15.7,24,54,United Kingdom,Durham University,14,3,Center for World University Rankings,84,Research,72
+121,2016,20580,18.9,18,48,Netherlands,Erasmus University Rotterdam,14,3,Center for World University Rankings,84,Research,44
+161,2016,33062,39.3,20,58,Germany,Free University of Berlin,14,3,Center for World University Rankings,84,Research,21
+171,2016,50882,40.5,36,56,Australia,Monash University,14,3,Center for World University Rankings,84,Research,2
+133,2016,24556,25.6,12,52,Netherlands,University of Groningen,14,3,Center for World University Rankings,84,Research,44
+1046,2016,44501,12.4,12,46,United States of America,Pennsylvania State University,21,3,Center for World University Rankings,82,Research,73
+162,2016,28327,38.9,12,58,Germany,University of Tübingen,14,3,Center for World University Rankings,84,Research,21
+1036,2016,26485,5.8,10,51,United States of America,University of Pittsburgh,21,3,Center for World University Rankings,82,Research,73
+325,2016,18529,16.6,37,48,United Kingdom,University of Warwick,14,3,Center for World University Rankings,84,Research,72
+131,2016,25266,18.2,12,57,Sweden,Uppsala University,14,3,Center for World University Rankings,84,Research,64
+1049,2016,26467,31.2,16,52,Germany,University of Freiburg,21,3,Center for World University Rankings,82,Research,21
+75,2016,26389,13.9,10,52,South Korea,Seoul National University,14,3,Center for World University Rankings,84,Research,62
+324,2016,8338,12.7,47,56,United Kingdom,University of St Andrews,14,3,Center for World University Rankings,84,Research,72
+59,2016,12161,3.6,10,52,United States of America,Vanderbilt University,1,1,Times Higher Education World University Ranking,100,Teaching,73
+358,2016,17755,18.8,28,54,United Kingdom,University of Exeter,14,3,Center for World University Rankings,84,Research,72
+179,2016,23311,15.5,31,50,United Kingdom,University of Sheffield,14,3,Center for World University Rankings,84,Research,72
+215,2016,14260,14,40,52,United Kingdom,Queen Mary University of London,14,3,Center for World University Rankings,84,Research,72
+112,2016,11829,13.8,10,44,United States of America,University of Notre Dame,14,3,Center for World University Rankings,84,Research,73
+226,2016,20851,20.7,27,50,Australia,University of Western Australia,14,3,Center for World University Rankings,84,Research,2
+384,2016,462,16.5,5,28,Italy,Scuola Normale Superiore di Pisa,14,3,Center for World University Rankings,84,Research,32
+187,2016,3055,10.1,4,20,South Korea,Pohang University of Science and Technology,14,3,Center for World University Rankings,84,Research,62
+68,2016,31331,8.4,9,48,United States of America,"University of Maryland, College Park",1,1,Times Higher Education World University Ranking,100,Teaching,73
+141,2016,32166,34.1,9,57,Belgium,Ghent University,14,3,Center for World University Rankings,84,Research,6
+146,2016,25295,16.4,23,54,United Kingdom,University of Birmingham,14,3,Center for World University Rankings,84,Research,72
+542,2016,8747,15.9,37,57,United Kingdom,"Royal Holloway, University of London",21,3,Center for World University Rankings,82,Research,72
+450,2016,11512,14.9,33,52,United Kingdom,Lancaster University,19,3,Center for World University Rankings,82,Research,72
+91,2016,27139,18.8,18,52,Norway,University of Oslo,14,3,Center for World University Rankings,84,Research,47
+188,2016,31715,23.7,8,62,Sweden,Stockholm University,14,3,Center for World University Rankings,84,Research,64
+108,2016,36299,21.6,23,55,Canada,University of Alberta,14,3,Center for World University Rankings,84,Research,9
+191,2016,12001,17.4,35,54,United Kingdom,University of Sussex,14,3,Center for World University Rankings,84,Research,72
+1034,2016,56959,13,11,49,United States of America,University of Massachusetts,21,3,Center for World University Rankings,82,Research,73
+206,2016,34651,20.5,25,67,Austria,University of Vienna,14,3,Center for World University Rankings,84,Research,3
+97,2016,30144,15,27,54,United Kingdom,University of Nottingham,14,3,Center for World University Rankings,84,Research,72
+255,2016,30538,12.3,10,59,Spain,Autonomous University of Barcelona,14,3,Center for World University Rankings,84,Research,63
+84,2016,23845,10.2,12,52,United States of America,University of Virginia,14,3,Center for World University Rankings,84,Research,73
+134,2016,9027,10,9,20,South Korea,Korea Advanced Institute of Science and Technology (KAIST),14,3,Center for World University Rankings,84,Research,62
+1080,2016,24365,20.3,9,39,South Korea,Sungkyunkwan University (SKKU),21,3,Center for World University Rankings,82,Research,62
+148,2016,23280,16.3,6,56,Netherlands,VU University Amsterdam,14,3,Center for World University Rankings,84,Research,44
+1055,2016,12062,14.6,21,30,Sweden,KTH Royal Institute of Technology,21,3,Center for World University Rankings,82,Research,64
+200,2016,43280,43.4,11,60,Germany,University of Cologne,14,3,Center for World University Rankings,84,Research,21
+212,2016,18815,13.6,30,52,United Kingdom,University of Liverpool,14,3,Center for World University Rankings,84,Research,72
+1039,2016,15521,18,25,57,Ireland,Trinity College Dublin,21,3,Center for World University Rankings,82,Research,30
+50,2016,36429,12.7,8,52,United States of America,University of Arizona,1,1,Times Higher Education World University Ranking,100,Teaching,73
+128,2016,47491,12.2,10,62,Spain,University of Barcelona,14,3,Center for World University Rankings,84,Research,63
+469,2016,10930,59.1,12,54,Germany,University of Konstanz,19,3,Center for World University Rankings,82,Research,21
+22,2016,17612,10.7,5,55,Israel,Hebrew University of Jerusalem,1,1,Times Higher Education World University Ranking,100,Teaching,31
+281,2016,30726,24.2,14,45,Canada,University of Waterloo,14,3,Center for World University Rankings,84,Research,9
+1087,2016,27603,15,17,45,France,Paris-Sud University,21,3,Center for World University Rankings,82,Research,20
+80,2016,83236,29.9,9,50,United States of America,Arizona State University,14,3,Center for World University Rankings,84,Research,73
+1061,2016,9187,11.2,10,47,Germany,Ulm University,21,3,Center for World University Rankings,82,Research,21
+1107,2016,6853,6.6,16,64,Germany,Charité - Universitätsmedizin Berlin,21,3,Center for World University Rankings,82,Research,21
+598,2016,16841,43.2,8,51,Italy,University of Trento,21,3,Center for World University Rankings,82,Research,32
+1058,2016,27756,14.8,17,63,France,Paris Diderot University – Paris 7,21,3,Center for World University Rankings,82,Research,20
+1071,2016,17940,17.9,30,54,United Kingdom,Queen’s University Belfast,21,3,Center for World University Rankings,82,Research,72
